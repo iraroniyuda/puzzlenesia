@@ -1,0 +1,2292 @@
+{
+    "tasksData": [
+        {
+            "name": "Tokoh",
+            "localizedName": "Tokoh",
+            "gameType": 0,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "bung tomo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "ir soekarno",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "ki hajar dewantara",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "kh hasyim asyari",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "mohammad hatta",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "pangeran diponegoro",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "joko widodo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "habib luthfi bin yahya",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "ra kartini",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "kh ahmad dahlan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "wr supratman",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "kh wahid hasyim",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "maruf amin",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "megawati soekarno putri",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "idham chalid",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "kapitan pattimura",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "susilo bambang yudhoyono",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "sunan kalijaga",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "patih gajah mada",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "jusuf kalla",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "jenderal sudirman",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "kh agus salim",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "sunan gunung jati",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "ah nasution",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "hos tjokroaminoto",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "mohammad natsir",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "otto iskandar dinata",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "gatot soebroto",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "di pandjaitan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "pierre tendean",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "prabowo subianto",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "mohammad yamin",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "cut nyak meutia",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "dewi sartika",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "ismail marzuki",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "hayam wuruk",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "adam malik",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "sultan ageng tirtayasa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "sutan sjahrir",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "teuku umar",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "try sutrisno",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "sultan hasanuddin",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "teuku cik ditiro",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "yos sudarso",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "achmad soebardjo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "silas papare",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "prabu siliwangi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "malahayati",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "sultan iskandar muda",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "mulawarman",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Flora",
+            "localizedName": "Flora",
+            "gameType": 2,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "anggrek hitam",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "anggrek larat",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "eboni",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "gandaria",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "merah",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "asar",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "cempaka",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "kenanga",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "bungong jeumpa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "cendana",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "duku",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "gofasa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "kantil",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "kepel",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "kokoleceran",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "longusei",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "mangga kasturi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "murbei",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "nagasari",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "nibung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "pinang merah",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "cengkeh",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "majegau",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "sagu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "raflesia",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "rotan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "sedap malam",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "sirih",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "sukun",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "tenggaring",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "tengkawang tungkul",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Fauna",
+            "localizedName": "Fauna",
+            "gameType": 2,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "ajag",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "anoa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "ayam bekisar",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "babi rusa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "banteng",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "bekantan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "beo nias",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "beruang madu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "komodo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "bidadari halmahera",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "kasuari",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "mambruk",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "ceumpala kuneng",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "dingiso",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "elang bondol",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "enggang gading",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "gajah sumatera",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "harimau sumatera",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "hiu halmahera",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "belida",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "kodok",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "bulalao",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "julang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "kakap merah darah",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "kancil jawa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "kepodang emas",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "kuau kerdil",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "kuau raja",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "kucing bakau",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "labi labi moncong babi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "lutung jawa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "macan tutul jawa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "mandar dengkur",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "mentilin",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "monyet kedih",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "nuri raja ambon",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "owaowa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "penyu sisik",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "perkutut",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "pesut mahakam",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "rangkok badak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "rusa timor",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "serindit",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "surili jawa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "tangkasi",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Alat Musik",
+            "localizedName": "Alat Musik",
+            "gameType": 0,
+            "orderNumber": 4,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "aramba",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "atowo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "bonang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "burdah",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "cangor",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "celempung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "cengceng",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "demung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "doli doli",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "gambang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "gamelan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "ganda",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "garantung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "gendang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "gendang beleq",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "gender",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "geso geso",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "gong",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "gonrang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "kuriding",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "kecrek",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "ketipung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "kolintang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "lalove",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "panting",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "papuik tanduak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "rebab",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "saluang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "santu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "sape",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "serunai",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "siter",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "suling",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "talindo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "terompet",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Senjata",
+            "localizedName": "Senjata",
+            "gameType": 3,
+            "orderNumber": 5,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "baladu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "bessing",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "busur panah",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "celurit",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "dohong",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "golok ciomas",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "kandik",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "karih",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "kawali",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "kerambit",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "bujak beliung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "lembing",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "lanjo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "palitai",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "parang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "parang salawaku",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "parang taawu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "pasatimpo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "payan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "peda",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "alameng luwu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "jenawi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "penambad",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "belati",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "tiuk",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "piso gaja dompak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "sampari",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "siwar",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "sumpit",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "sundu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "tappi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "terapang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "tombak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "tombak mata panah",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "trisula",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "tongkat panulan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "tulup",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "wamilo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "wedhung",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Baju Adat",
+            "localizedName": "Baju Adat",
+            "gameType": 0,
+            "orderNumber": 6,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "aesan gede",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "amarasi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "baju betabur",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "baju bodo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "baju buton",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "baju demang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "baju kakamban",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "baju kurung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "biliu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "bundo kanduang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "cele",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "ewer",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "jawi jangkep",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "kebaya encim",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "kebaya laboh",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "kebaya sunda",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "king baba",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "king bibinge",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "kustin",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "laku tepu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "menteran lamo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "makuta",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "nggembe",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "paksian",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "pangsi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "pattuqduq towaine",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "payas agung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "pegon",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "pesaan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "sapel sapaq",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "surjan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "taa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "tii langga",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "ulee balang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "ulos",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "way kanan",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Rumah Adat",
+            "localizedName": "Rumah Adat",
+            "gameType": 0,
+            "orderNumber": 7,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "gapura candi bentar",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "bolon",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "bubungan lima",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "rumah kebaya",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "dulohupa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "panggung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "kasepuhan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "rumah panjang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "bubungan tinggi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "rumah betang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "rumah lamin",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "rumah baloy",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "krong bade",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "baileo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "dalam loka",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "musalaki",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "nuwo sesat",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "mod aki aksa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "jew",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "limas",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "sulah nyanda",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "kariwari",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "karapao",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "sasadu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "limas putong",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "rakit",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "boyang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "souraja",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "buton",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "walewangko",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Monumen",
+            "localizedName": "Monumen",
+            "gameType": 3,
+            "orderNumber": 8,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "merpati perdamaian",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "monjali",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "monpera",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "ambarawa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "husein sastranegara",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "kresek",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "kretek",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "pancasila sakti",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "parai",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "selamat datang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "yesus memberkati",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "bahari",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "kapsul waktu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "simpang lima gumul",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "soerjo",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "trisula",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "bajra sandhi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "bambu runcing",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "mandala",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "palagan sambi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "pers nasional",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "peta",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "jalesveva jayamahe",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "tugu muda",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "jenderal sudirman",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Permainan Tradisional",
+            "localizedName": "Permainan Tradisional",
+            "gameType": 1,
+            "orderNumber": 9,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "balap karung",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "bakiak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "gobak sodor",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "lompat batu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "egrang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "panjat pinang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "jemparingan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "pencak silat",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "tarik tambang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "sepak takraw",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "pukul bantal",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "petak umpet",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "gasing",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "layangan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "gundu",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "name": "Peninggalan Sejarah",
+            "localizedName": "Peninggalan Sejarah",
+            "gameType": 0,
+            "orderNumber": 10,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "bayan beleq",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "arca ganesha",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "benteng anoi itam",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "benteng barus",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "benteng portugis",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "benteng rotterdam",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "benteng tolukko",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "benteng van der wijk",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "benteng kuto besak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "candi bahal",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "candi borobudur",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "candi jawi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "candi muara takus",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "candi penataran",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "candi prambanan",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "candi mendut",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "gedung sate",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "gereja blenduk",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "gua sunyaragi",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "istana bogor",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "istana maimun",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "istana tamalate",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "keraton kanoman",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "keraton yogyakarta",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "kitab negarakertagama",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "kitab sutasoma",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "kura kura emas",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "lawang sewu",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "gua jepang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "masjid demak",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "masjid baiturrahman",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "goedang ransoem",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "museum sangiran",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "museum tsunami",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "petirtaan watugede",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "prasasti ciaruteun",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "prasasti kedukan bukit",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "prasasti yupa",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "sam poo kong",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "situs watu lumpang",
+                    "imageText": "",
+                    "cost": 50
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "benteng vredeburg",
+                    "imageText": "",
+                    "cost": 50
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "main"
+        },
+        {
+            "key": 1,
+            "value": "info"
+        },
+        {
+            "key": 2,
+            "value": "keluar"
+        },
+        {
+            "key": 3,
+            "value": "kembali"
+        },
+        {
+            "key": 4,
+            "value": "KUISNESIA adalah Game edukasi wawasan Nusantara, diproduksi oleh INDORIGA Cybercloud bekerjasama dengan PETANESIA."
+        },
+        {
+            "key": 5,
+            "value": "terkunci"
+        },
+        {
+            "key": 6,
+            "value": "Munculkan huruf"
+        },
+        {
+            "key": 7,
+            "value": "Hilangkan huruf salah"
+        },
+        {
+            "key": 8,
+            "value": "Dapatkan jawaban"
+        },
+        {
+            "key": 9,
+            "value": "Dapatkan koin"
+        },
+        {
+            "key": 10,
+            "value": "Tonton Iklan"
+        },
+        {
+            "key": 11,
+            "value": "Beli seharga x"
+        },
+        {
+            "key": 12,
+            "value": "lanjutkan"
+        },
+        {
+            "key": 13,
+            "value": "menu utama"
+        },
+        {
+            "key": 14,
+            "value": "Level Selesai"
+        },
+        {
+            "key": 15,
+            "value": "Jika suka gamenya, rate di GooglePlay"
+        },
+        {
+            "key": 16,
+            "value": "rate"
+        },
+        {
+            "key": 17,
+            "value": "tidak"
+        },
+        {
+            "key": 18,
+            "value": "nanti"
+        },
+        {
+            "key": 19,
+            "value": "Data collection consent"
+        },
+        {
+            "key": 20,
+            "value": "Personalized advertisements"
+        },
+        {
+            "key": 21,
+            "value": "Allow AD networks too use collected data and show personalized advertisements"
+        },
+        {
+            "key": 22,
+            "value": "ya"
+        },
+        {
+            "key": 23,
+            "value": "tidak"
+        }
+    ],
+    "randomLetters": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+    ]
+}
